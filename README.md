@@ -1,6 +1,6 @@
 # Flask_Web
 
 
-A simple Scala web app, using Cask - a Flask inspired, HTTP micro-framework.   
-https://github.com/com-lihaoyi/cask.    
-Work in progress
+A simple Blogs web app, using Flask
+Utilizing MySql as the database of choice.
+
