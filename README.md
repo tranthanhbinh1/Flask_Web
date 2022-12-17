@@ -2,5 +2,5 @@
 
 
 A simple Blogs web app, using Flask.  
-Utilizing MySql as the database of choice.
+Utilizing SQLite as the database of choice.
 
